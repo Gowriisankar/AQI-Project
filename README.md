@@ -32,7 +32,7 @@ This project is a machine learning-based web application that predicts the **Air
 - **pandas**, **numpy**
 - **matplotlib / seaborn** (for EDA in the notebook)
 
-##📈 Dataset
+📈 Dataset
 Source: Central Pollution Control Board (CPCB) - 2023
 
 File: YEARLY_2023_CAAQMS_FINAL_UPLOAD_merged 2.csv
